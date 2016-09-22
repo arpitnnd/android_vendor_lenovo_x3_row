@@ -821,7 +821,6 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/x3_row/proprietary/bin/wfdservice:system/bin/wfdservice \
     vendor/lenovo/x3_row/proprietary/etc/dpm/nsrm/NsrmConfiguration.xml:system/etc/dpm/nsrm/NsrmConfiguration.xml \
     vendor/lenovo/x3_row/proprietary/etc/dpm/dpm.conf:system/etc/dpm/dpm.conf \
-    vendor/lenovo/x3_row/proprietary/etc/firmware/wlan/qca_cld/WCNSS_cfg.dat:system/etc/firmware/wlan/qca_cld/WCNSS_cfg.dat \
     vendor/lenovo/x3_row/proprietary/etc/permissions/com.broadcom.nfc.xml:system/etc/permissions/com.broadcom.nfc.xml \
     vendor/lenovo/x3_row/proprietary/etc/permissions/com.google.widevine.software.drm.xml:system/etc/permissions/com.google.widevine.software.drm.xml \
     vendor/lenovo/x3_row/proprietary/etc/permissions/com.quicinc.wbcservice.xml:system/etc/permissions/com.quicinc.wbcservice.xml \
@@ -844,7 +843,6 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/x3_row/proprietary/lib/libbson.so:system/lib/libbson.so \
     vendor/lenovo/x3_row/proprietary/lib/libcom_fingerprints_service.so:system/lib/libcom_fingerprints_service.so \
     vendor/lenovo/x3_row/proprietary/lib/libcywcalibrator.so:system/lib/libcywcalibrator.so \
-    vendor/lenovo/x3_row/proprietary/lib/libesehal.so:system/lib/libesehal.so \
     vendor/lenovo/x3_row/proprietary/lib/libesehal.so:system/lib/libesehal.so \
     vendor/lenovo/x3_row/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
     vendor/lenovo/x3_row/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
